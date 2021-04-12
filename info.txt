@@ -1,0 +1,1 @@
+This is dummy project. Created during GIT  training.
